@@ -11,3 +11,6 @@ how
 
 ## Introduction
 introduction text
+
+### Copyright
+copyright
