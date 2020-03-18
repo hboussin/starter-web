@@ -15,4 +15,4 @@ please blavla
 introduction text
 
 ### Copyright
-copyright
+copyright. All rights reserved.
